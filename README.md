@@ -1,2 +1,2 @@
-# ERP-Energia-y-Suministro.
+# ERP-Energia-y-Suministro
 Proyecto de curso
